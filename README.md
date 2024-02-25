@@ -1,4 +1,4 @@
-<b>MonReader</b>
+MonReader
 
 MonReader is an innovative mobile document digitization tool designed for the visually impaired, researchers, and those seeking fully automatic, high-speed, and high-quality bulk document scanning. The mobile app simplifies the process—users flip pages, and MonReader handles the rest, detecting flips, capturing high-res images, recognizing corners, cropping, dewarping, and enhancing text contrast. We collected labeled page-flipping videos from smartphones, extracted frames, and aimed to predict page flips from single images.
 
