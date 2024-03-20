@@ -21,7 +21,7 @@ Results:
 
 I've started by loading the data into two separate datasets of training and testing. Then, I've resized and rescaled the images for it to be in a lower-dimension which leads to simpler modeling and computation. At last, I've created a custom Convolutional Neural Network (CNN) model and applied it to the data and it yielded the following:
 
-#### The maximum accuracy on the training data: 0.9983
+#### The maximum accuracy on the training data: 0.9996
 #### The maximum accuracy on the testing data: 0.9933
-#### The maximum F1-Score on the training data: 0.9984
+#### The maximum F1-Score on the training data: 0.9996
 #### The maximum F1-Score on the testing data: 0.9934
